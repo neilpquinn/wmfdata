@@ -24,7 +24,8 @@ setup(
         "mysql-connector-python",
         "pandas>=0.20.1", # 0.20.1 introduced the errors module
         "packaging",
-        "requests"
+        "requests",
+        "presto-python-client"
     ],
     packages=find_packages(),
     python_requires=">=3",

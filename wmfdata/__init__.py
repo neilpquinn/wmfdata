@@ -6,6 +6,7 @@ from wmfdata import (
     hive,
     mariadb,
     metadata,
+    presto,
     spark
 )
 
